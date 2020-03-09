@@ -1,0 +1,25 @@
+{
+    "name": "tr-mysql",
+    "version": "0.0.1",
+    "description": "Simple yet powerful asynchronous MySQL wrapper",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./test/test.js"
+    },
+    "engines": {
+        "node": ">=8.00.0"
+    },
+    "dependencies": {
+        "mysql": "^2.18.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rinne/node-tr-mysql.git"
+    },
+    "author": {
+        "name": "Timo J. Rinne",
+        "email": "tri@iki.fi",
+        "url": "https://github.com/rinne/"
+    },
+    "license": "MIT"
+}
